@@ -1,0 +1,7 @@
+env/__pycache__/
+*.pyc
+vs code/
+.DS__Store
+Thumbs.db
+.env
+db.sqlite3
